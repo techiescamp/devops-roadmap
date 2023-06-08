@@ -1,6 +1,6 @@
 A practical DevOps roadmap with detailed tasks to Learn the essential skills, tools, and practices that are crucial in the DevOps industry
 
-## How To Use This Roadmap Repo
+## 🚀 How To Use This Roadmap Repo 
 
 > "Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
 
@@ -14,7 +14,7 @@ Here's how you can use this repo for maximum learning and knowledge retention:
 - **Contribute to the Learning Ecosystem**: Inspire others, foster collaboration, and accelerate collective growth.
 
 > Note: When doing research, focus on using official documentation and trustworthy sources like authoritative blogs and videos. Be careful with content that lacks credibility or comes from platforms like YouTube and other sources.
-## Understand DevOps Philosophy
+## 🔄 Understand DevOps Philosophy
 
 To become a DevOps engineer, the first and most important thing is to understand the DevOps Philosophy. It's all about different teams working together towards a common goal. In other words, there shouldn't be any blaming between different IT teams.
 
