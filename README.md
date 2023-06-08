@@ -14,7 +14,7 @@ This picture by [Sandra Martin](https://www.ein-bild.com) sums it up.
 
 In this section, we will look at each tool and technology and the associated tasks to master them.
 
-### Learn Linux
+### 01-Learn Linux
 
 In DevOps engineer interviews, Linux questions are often asked because Linux is the most popular operating system in the public cloud. To increase your chances of success, it's important to have a good understanding and practical experience with various Linux distributions commonly used by organizations, such as RHEL, CentOS, Ubuntu, CoreOS, and others. Having knowledge of these distributions shows your expertise in Linux and your ability to work effectively in the DevOps field.
 
