@@ -2,11 +2,15 @@ A practical DevOps roadmap with detailed tasks to Learn the essential skills, to
 
 ## How To Use This Roadmap Repo
 
+> "Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
+
+Here's how you can use this repo for maximum learning and knowledge retention:
+
 - **Practical Application:** In this roadmap, there are tasks associated under each category. Apply what you learn practically to enhance your understanding.
 - **Publish Learnings as Blogs:** Write blog posts on your preferred platform to solidify your knowledge on each task.
 - **Share with the Community:** Publish your blog posts and Share your blog posts in relevant forums, social media, and online communities.
 - **Engage in Feedback:** Receive feedback on your posts and provide constructive input to others.
-- **Expand Your Reach:** Share your blog posts in relevant forums, social media, and online communities.
+- **Reflect and Review:** Regularly reflect on your progress and review the concepts you have learned. Identify any areas that need further practice or understanding.
 - **Contribute to the Learning Ecosystem**: Inspire others, foster collaboration, and accelerate collective growth.
 
 ## Understand DevOps Philosophy
