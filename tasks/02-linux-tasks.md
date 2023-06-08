@@ -2,11 +2,10 @@
 
 ---
 
-- [ ]  Compare and contrast features of RHEL and Ubuntu.
-- [ ]  Discuss the pros and cons of using CentOS over RHEL.
-- [ ]  Compare the package managers used by Debian and Fedora.
+- [ ]  Compare and contrast features of RHEL, Fedora and Ubuntu.
+- [ ]  Compare the package managers used by RHEL, Fedora and Ubuntu.
 - [ ]  Discuss how system administration varies across different Linux distributions.
-- [ ]  Investigate the security features inherent to CoreOS.
+- [ ]  Investigate the security features inherent to RHEL.
 
 ## **Setup Linux Environment**
 
