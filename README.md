@@ -6,16 +6,16 @@ To become a DevOps engineer, the first and most important thing is to understand
 
 This picture by [Sandra Martin](https://www.ein-bild.com) sums it up.
 
-![image-1](https://github.com/techiescamp/devops-roadmap/assets/106984297/90cf4490-9ff9-49a0-b133-9533f2be92fa)
+<p align="center">
+ <img src="https://github.com/techiescamp/devops-roadmap/assets/106984297/90cf4490-9ff9-49a0-b133-9533f2be92fa" alt="Image" />
+</p>
 
->**Tasks:** [Understanding DevOps and Its Real-world Implication](https://github.com/techiescamp/devops-roadmap/blob/main/tasks/01-devops-research.md)
+**➡ Tasks:** [Understanding DevOps and Its Real-world Implication](https://github.com/techiescamp/devops-roadmap/blob/main/tasks/01-devops-research.md)
 
-## Tools & Technologies
+In the following sections, we will look at each tool and technology and the associated tasks to master them.
 
-In this section, we will look at each tool and technology and the associated tasks to master them.
-
-### 01-Learn Linux
+## 🐧 Learn Linux
 
 In DevOps engineer interviews, Linux questions are often asked because Linux is the most popular operating system in the public cloud. To increase your chances of success, it's important to have a good understanding and practical experience with various Linux distributions commonly used by organizations, such as RHEL, CentOS, Ubuntu, CoreOS, and others. Having knowledge of these distributions shows your expertise in Linux and your ability to work effectively in the DevOps field.
 
->Tasks: [Mastering Linux for DevOps](https://github.com/techiescamp/devops-roadmap/blob/main/tasks/02-linux-tasks.md)
+**➡️ Tasks:** [Mastering Linux for DevOps](https://github.com/techiescamp/devops-roadmap/blob/main/tasks/02-linux-tasks.md)
