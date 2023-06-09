@@ -34,6 +34,16 @@ Generative AI tools like ChatGPT & Google Bard can engage in interactive convers
 
 With [ChatGPT plugins](https://devopscube.com/chatgpt-plugins/), you can chat with PDF content, summarize videos, and extract content from URLs, among many other features. Instead of perceiving AI tools as a threat, embrace them. By leveraging these powerful tools, you can accelerate your learning process and accomplish tasks more efficiently.
 
+### Will AI tools replace DevOps Engineers? 
+
+I asked this question of the tool itself, and here is what ChatGPT had to say about it.
+
+>AI tools and automation have not replaced DevOps engineers, but rather have become an integral part of their toolkit. AI can help automate certain repetitive tasks and improve efficiency, but it doesn't remove the need for DevOps professionals. However, AI and automation tools have significantly changed the role of a DevOps engineer, reducing the time spent on routine tasks and increasing the focus on strategic, high-value work. It's important for DevOps professionals to stay current with AI and machine learning technologies as they continue to evolve.
+
+Here is what Google bard had to say about it.
+
+>No, AI tools will not replace DevOps engineers. AI tools can automate some of the tasks that DevOps engineers perform, but they cannot replace the human expertise and judgment that is essential for successful DevOps implementations.
+
 ## 🐧 Learn Linux
 
 Lnux is #1 essential skill for any aspiring DevOps engineer.
