@@ -28,6 +28,12 @@ This picture by [Sandra Martin](https://www.ein-bild.com) sums it up.
 
 In the following sections, we will look at each tool and technology and the associated tasks to master them.
 
+## Learn to use AI Tools
+
+Ai tools like ChatGPT & Google Bard can engage in interactive conversations, allowing you to ask questions, seek clarification, and get immediate responses related to DevOps tools and technologies. You can use these tools for Explanation and Conceptual Understanding, Real-World Examples, Troubleshooting and Problem-solving.
+
+Embrace AI tools instead of perceiving them as a threat. Leverage these powerful tools to accelerate your learning process and accomplish tasks more efficiently.
+
 ## 🐧 Learn Linux
 
 Lnux is #1 essential skill for any aspiring DevOps engineer.
