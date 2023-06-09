@@ -192,7 +192,7 @@ T**ask 4: Understanding SSH Key-Based Authentication**
 
 **Task 1: Hostname and Network Configuration**
 
-- [ ]  Use commands such as **`ifconfig`**, **`ip`**, **`netstat`**, **`hostname`** and **`nslookup`** to view network configuration and system hostname.
+- [ ]  Use commands such as **`ip`**, **`ip`**, **`ss`**, **`hostname`** and **`nslookup`** to view network configuration and system hostname.
 - [ ]  Change the IP address and hostname of your machine.
 - [ ]  Test the changes using **`ping`**, **`nslookup`** or **`hostname -f`**.
 
