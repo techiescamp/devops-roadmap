@@ -35,3 +35,11 @@ Lnux is #1 essential skill for any aspiring DevOps engineer.
 In DevOps engineer interviews, Linux questions are often asked because Linux is the most popular operating system in the public cloud. To increase your chances of success, it's important to have a good understanding and practical experience with Linux . The commonly used Linux distributions by organizations are RHEL, Ubuntu, Cloud Specific Linux Distributions (eg: Amazon Linux). Having knowledge of these distributions shows your expertise in Linux and your ability to work effectively in the DevOps field.
 
 **➡️ Tasks:** [Mastering Linux for DevOps](https://github.com/techiescamp/devops-roadmap/blob/main/tasks/02-linux-tasks.md)
+
+## Learn about IT Infrastructure Components
+
+To excel in a DevOps environment, it is essential to grasp the fundamental components of an organization's infrastructure, whether it resides in a cloud or an on-premise data center. Acquiring this knowledge enables effective collaboration and communication, especially when engaging with network and security teams.
+
+Having a solid understanding of infrastructure empowers you to ask relevant questions, comprehend their responses, and enhance collaboration. Instead of simply stating, "It's not working, can you fix it?" you can contribute more effectively by saying, "I've conducted initial troubleshooting and identified some findings. Could you investigate further and help us determine the root cause of the issue?"
+
+
