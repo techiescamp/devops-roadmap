@@ -28,11 +28,11 @@ This picture by [Sandra Martin](https://www.ein-bild.com) sums it up.
 
 In the following sections, we will look at each tool and technology and the associated tasks to master them.
 
-## Learn to use AI Tools
+## 🤖 Learn to use AI Tools
 
-Ai tools like ChatGPT & Google Bard can engage in interactive conversations, allowing you to ask questions, seek clarification, and get immediate responses related to DevOps tools and technologies. You can use these tools for Explanation and Conceptual Understanding, Real-World Examples, Troubleshooting and Problem-solving.
+Generative AI tools like ChatGPT & Google Bard can engage in interactive conversations, allowing you to ask questions, seek clarification, and get immediate responses related to DevOps tools and technologies. You can use these tools for Explanation and Conceptual Understanding, Real-World Examples, Troubleshooting and Problem-solving.
 
-Embrace AI tools instead of perceiving them as a threat. Leverage these powerful tools to accelerate your learning process and accomplish tasks more efficiently.
+With [ChatGPT plugins](https://devopscube.com/chatgpt-plugins/), you can chat with PDF content, summarize videos, and extract content from URLs, among many other features. Instead of perceiving AI tools as a threat, embrace them. By leveraging these powerful tools, you can accelerate your learning process and accomplish tasks more efficiently.
 
 ## 🐧 Learn Linux
 
