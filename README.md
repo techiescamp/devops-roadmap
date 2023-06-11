@@ -1,6 +1,6 @@
 A practical DevOps roadmap with detailed tasks to Learn the essential skills, tools, and practices that are crucial in the DevOps industry
 
-## 🚀 How To Use This Roadmap Repo 
+## 🚀 How To Use This DevOps Roadmap
 
 > "Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
 
